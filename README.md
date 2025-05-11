@@ -16,7 +16,6 @@ Este projeto é um Timer desenvolvido em React, utilizando diversas tecnologias 
 - **date-fns**
 - **React Router DOM**
 
-## Estrutura de Pastas
 1. **Clone o repositório**
    ```bash
     git clone https://github.com/gnneto/Timer-react.git
